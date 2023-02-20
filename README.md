@@ -1,4 +1,4 @@
-# Forma-o_DataScience
+# Formacao_DataScience 🚀💻🤓
 Este repositório é referente a formação em cientista de dados, para a formação estarei utilizando os seguintes materiais: 
 
 * Curso: Data Science e Machine Learning com Estátistica e Python - Udemy 
